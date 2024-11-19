@@ -1,5 +1,5 @@
 # Analisis-Tienda-de-Videojuegos
-Análisis de datos de una tienda multinacional de videojuegos
+Análisis de datos de una Tienda Multinacional de Videojuegos
 
 ---
 
